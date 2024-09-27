@@ -1,1 +1,8 @@
-streamlit
+numpy
+pandas
+seaborn
+matplotlib
+tensorflow  # Specify version based on your usage
+keras       # Adjust version if using TensorFlow Keras or standalone Keras
+opencv-python
+scikit-learn
